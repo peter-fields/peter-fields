@@ -30,15 +30,6 @@ Google Scholar: https://scholar.google.com/citations?user=vWoUWkkAAAAJ
 - Mechanistic / mathematical views of representation learning (KL geometry, exponential families, energy-based models)
 - Applications of stat phys and machine learning to biology
 
-## Selected work
-
-- OpenReview: *Understanding Energy-Based Modeling of Proteins via an Empirically Motivated Minimal Ground Truth Model*  
-  https://openreview.net/pdf?id=vxn5QGPFyi
-
-- arXiv: *Temperature-tuning trained energy functions improves generative performance*  
-  https://www.arxiv.org/pdf/2512.09152
-
 ## Links
 
-- GitHub: https://github.com/peter-fields
 - LinkedIn: https://www.linkedin.com/in/peter-fields-8a9473106/
