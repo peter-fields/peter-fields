@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Website: https://peter-fields.github.io  
-Google Scholar: https://scholar.google.com/citations?user=vWoUWkkAAAAJ
+
+Google Scholar: https://scholar.google.com/citations?user=vWoUWkkAAAAJ  
+
 LinkedIn: https://www.linkedin.com/in/peter-fields-8a9473106/
 
 Interested in statistical physics perspectives on machine learning and generalization---with applications to biology.
