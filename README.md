@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Peter Fields
-
 Website: https://peter-fields.github.io  
 Google Scholar: https://scholar.google.com/citations?user=vWoUWkkAAAAJ
 
