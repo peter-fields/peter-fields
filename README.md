@@ -14,19 +14,12 @@ Here are some ideas to get you started:
 -->
 Website: https://peter-fields.github.io  
 Google Scholar: https://scholar.google.com/citations?user=vWoUWkkAAAAJ
+LinkedIn: https://www.linkedin.com/in/peter-fields-8a9473106/
+
+Interested in statistical physics perspectives on machine learning and generalization---with applications to biology.
 
 ## Writing
 
 - **Why Softmax? A Hypothesis Testing Perspective on Attention Weights**  
   https://peter-fields.github.io/why-softmax/  
   Softmax is ubiquitous in transformers, yet its role in attention can feel more heuristic than inevitable (at least to me). In this post, I try to make it feel more natural and show how this interpretation suggests useful diagnostics for the often circuit-like behavior of attention heads.
-
-## Research interests
-
-- Statistical physics perspectives on learning and generalization
-- Mechanistic / mathematical views of representation learning (KL geometry, exponential families, energy-based models)
-- Applications of stat phys and machine learning to biology
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/peter-fields-8a9473106/
